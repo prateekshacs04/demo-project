@@ -1,2 +1,2 @@
 # demo-project
-xample GitHub project for A2 demonstration
+example GitHub project for A2 demonstration
